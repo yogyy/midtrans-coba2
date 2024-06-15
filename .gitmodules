@@ -1,3 +1,6 @@
 [submodule "adonis-midtrans"]
 	path = adonis-midtrans
 	url = https://github.com/yogyy/adonis-midtrans
+[submodule "react-midtrans"]
+	path = react-midtrans
+	url = https://github.com/yogyy/react-midtrans
